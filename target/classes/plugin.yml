@@ -1,0 +1,6 @@
+name: SeleneHUD
+version: '1.1'
+main: noctenz.seleneHUD.SeleneHUD
+api-version: '1.21'
+authors: [ Noctenz ]
+description: © Copyright Sovereign Studios 2025 – 2026 all right reserved.
